@@ -3,7 +3,7 @@
 <p align="center">🎓 Estudiante de Licenciatura en Sistemas | 💻 Apasionado por el desarrollo backend con Java y Spring Boot</p>
 
 <p align="center">
-  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif" alt="Coding" width="400"/>
+  <img src="https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567" alt="Hello World" width="400"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-@agusbravo.09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100008665515187&locale=es_LA%5C" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Agustin%20Bravo-E4405F?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-Agustin%20Bravo-1877F2?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
   </a>
 </p>
 
