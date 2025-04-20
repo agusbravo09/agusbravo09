@@ -17,32 +17,48 @@
   <a href="https://instagram.com/agusbravo.09" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@agusbravo.09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.facebook.com/profile.php?id=100008665515187&locale=es_LA%5C" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Agustin%20Bravo-E4405F?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+<h3 align="left">🚀 Tecnologías que manejo</h3>
 
+<!-- Frontend -->
+<h4>🎨 Frontend</h4>
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+<!-- Backend -->
+<h4>⚙️ Backend</h4>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+</p>
+
+<!-- DevOps / Tools -->
+<h4>🛠️ Herramientas y otros</h4>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
 ### 🚀 Un poco sobre mí
 
-- 🔭 Actualmente estoy desarrollando proyectos con **Spring Boot y microservicios**
-- 🧠 Aprendiendo más sobre **Docker, React y arquitecturas distribuidas**
+- 🔭 Actualmente estoy especializandome en desarrollo backend con **Java, Spring Boot y microservicios**
+- 🧠 Aprendiendo más sobre **Docker**
 - 🛠️ En proceso de contenerizar mis microservicios con Docker
 - 💬 Me encanta compartir lo que aprendo y ayudar a otros
 - 🎯 En búsqueda de mi primer trabajo IT
@@ -52,15 +68,12 @@
 ### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agusbravo09&show_icons=true&theme=tokyonight" alt="agusbravo09 stats"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusbravo09&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
 
-<h3 align="left">📅 Línea de Tiempo – Mi evolución con Java y el desarrollo backend</h3>
+<h3 align="left">📅 Mi evolución con Java y el desarrollo backend</h3>
 
 <ul>
   <li><strong>🎓 2022:</strong> Comencé a programar en <code>Java</code> en la facultad. Primeros pasos con programación orientada a objetos.</li>
@@ -72,6 +85,7 @@
       <li>🔹 <code>Eureka Server</code> (Service Registry & Discovery)</li>
       <li>🔹 <code>Load Balancing</code></li>
       <li>🔹 <code>Circuit Breaker</code> con Resilience4j</li>
+      <li>🔹 <code>Config Server</code></li>
     </ul>
   </li>
   <li><strong>🐳 Actualidad:</strong> Estoy comenzando a aprender más sobre <code>Docker</code> para contenerizar mis proyectos y preparándome para iniciar un curso de <code>Spring Security</code> para profundizar en autenticación y autorización en APIs.</li>
