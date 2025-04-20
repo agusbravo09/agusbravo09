@@ -3,7 +3,7 @@
 <p align="center">🎓 Estudiante de Licenciatura en Sistemas | 💻 Apasionado por el desarrollo backend con Java y Spring Boot</p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567" alt="Hello World" width="400"/>
+  <img src="https://camo.githubusercontent.com/a2232ee5220c300ff41277ffa08414718f9e3a7fcc16eb281864edb16f930e7f/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323630302f312a304b464231375f4e47545042305857796334425367512e6a706567" alt="Hello World" width="800"/>
 </p>
 
 ---
