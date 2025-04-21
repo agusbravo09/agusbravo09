@@ -76,16 +76,16 @@
 <h3 align="left">📅 Mi evolución con Java y el desarrollo backend</h3>
 
 <ul>
-  <li><strong>🎓 2022:</strong> Comencé a programar en <code>Java</code> en la facultad. Primeros pasos con programación orientada a objetos.</li>
-  <li><strong>🌐 2023:</strong> Realicé cursos de desarrollo frontend, donde profundicé en <code>HTML</code>, <code>CSS</code> y <code>JavaScript</code>. Exploré tecnologías como <code>Node.js</code> y <code>React</code> de forma introductoria.</li>
+  <li><strong>🎓 2022:</strong> Realicé cursos de desarrollo frontend, donde profundicé en <code>HTML</code>, <code>CSS</code> y <code>JavaScript</code>. Exploré tecnologías como <code>Node.js</code> y <code>React</code> de forma introductoria. </li>
+  <li><strong>🌐 2023:</strong>Comencé a programar en <code>Java</code> en la facultad. Primeros pasos con programación orientada a objetos.</li>
   <li><strong>🔙 2024:</strong> Decidí enfocarme en lo que realmente me apasiona: el desarrollo backend con <code>Java</code>. Empecé el curso de <code>Spring Boot</code> donde creé mis primeras <strong>APIs REST</strong> y trabajé con <strong>bases de datos relacionales</strong>.</li>
   <li><strong>🧩 2025:</strong> Complementé mi formación con un curso de desarrollo de <strong>microservicios</strong> usando <code>Spring Cloud</code>. Aprendí sobre:
     <ul>
-      <li>🔹 <code>API Gateway</code></li>
-      <li>🔹 <code>Eureka Server</code> (Service Registry & Discovery)</li>
-      <li>🔹 <code>Load Balancing</code></li>
-      <li>🔹 <code>Circuit Breaker</code> con Resilience4j</li>
-      <li>🔹 <code>Config Server</code></li>
+      <li> <code>API Gateway</code></li>
+      <li> <code>Eureka Server</code> (Service Registry & Discovery)</li>
+      <li> <code>Load Balancing</code></li>
+      <li> <code>Circuit Breaker</code> con Resilience4j</li>
+      <li> <code>Config Server</code></li>
     </ul>
   </li>
   <li><strong>🐳 Actualidad:</strong> Estoy comenzando a aprender más sobre <code>Docker</code> para contenerizar mis proyectos y preparándome para iniciar un curso de <code>Spring Security</code> para profundizar en autenticación y autorización en APIs.</li>
